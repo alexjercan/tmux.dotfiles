@@ -13,4 +13,4 @@
 
 ## Credits
 
-- ThePrimeagen for tmux-sessionizer
+- ThePrimeagen for [tmux-sessionizer](https://github.com/ThePrimeagen/.dotfiles/blob/master/bin/.local/scripts/tmux-sessionizer)
