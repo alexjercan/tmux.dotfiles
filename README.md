@@ -10,3 +10,7 @@
 
 * [tmux](https://github.com/tmux/tmux)
 * [fzf](https://github.com/junegunn/fzf)
+
+## Credits
+
+- ThePrimeagen for tmux-sessionizer
